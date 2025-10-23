@@ -1,45 +1,72 @@
-# Zomato-Data-Analysis-Using-Python
-This project analyzes Zomato restaurant data to help identify strategic insights for opening a new restaurant
-The goal is to determine the ideal restaurant type, best location, and suitable services based on existing market trends
+# 🍴 Zomato Restaurant Data Analysis
 
-# Project Objectives
-Identify the most preferred restaurant types among customers
-Determine the best city or location for a new restaurant
-Analyze which services customers value the most (delivery, dine-in, etc.)
+This study was conducted to assist a client planning to open a new restaurant.  
+By analyzing the **Zomato dataset**, the project provides insights into customer preferences, restaurant performance, and optimal business decisions.
 
-# Libraries Used
-Numpy
-Pandas
-Matplotlib
-Seaborn
+---
 
-# Data Preprocessing Steps
-Dropped unnecessary columns
-Renamed columns for clarity
-Removed duplicate entries
-Handled missing values
-Changed data types
-Clustered and grouped column values
-Cleaned inconsistent or mixed text fields
+## 🧠 Objective
+The main goal is to answer three key business questions:
+1. What type of restaurant is most preferred to open?  
+2. Which location would be most suitable?  
+3. What kind of services should the restaurant provide?
 
-# Visualization Methods
-Countplot – to show the frequency of restaurant types and locations
-Boxplot – to analyze rating and price distributions
-Barplot – to compare popular cuisines, locations, and services
+---
 
-# Key Insights
-Determined which restaurant categories perform best in different regions
-Identified top-rated and high-demand locations
-Recommended suitable services such as delivery, dine-in, or reservations
-Found how ratings vary with restaurant type and price
+## 🧾 Dataset
+- Source: Kaggle (Zomato Restaurants Data)
+- Type: CSV
+- Features: Restaurant type, location, ratings, cost, and services  
 
-# Learning Outcomes
-Improved skills in data cleaning and preprocessing
-Gained experience with visual data storytelling
-Learned to analyze real business problems using Python
-Enhanced understanding of customer behavior through data
+---
 
-# Dataset
-Source: Kaggle
-Format: CSV
-Contains information on restaurants, ratings, cuisines, price range, and services
+## 🧰 Libraries and Tools
+| Library | Purpose |
+|----------|----------|
+| NumPy | Numerical operations |
+| Pandas | Data cleaning and manipulation |
+| Matplotlib | Data visualization |
+| Seaborn | Advanced plotting and aesthetics |
+
+---
+
+## 🧹 Data Preprocessing Steps
+- Dropped irrelevant columns  
+- Renamed columns for clarity  
+- Removed duplicate entries  
+- Handled null values systematically  
+- Changed data types where necessary  
+- Clustered categorical values  
+- Cleaned inconsistent text entries  
+
+---
+
+## 📊 Visualization & Analysis
+Used visual techniques to interpret restaurant data effectively:
+- **Countplot** – frequency of restaurant types  
+- **Boxplot** – comparison of ratings and prices  
+- **Barplot** – popular cities, cuisines, and service categories  
+
+---
+
+## 🔍 Insights Derived
+- Popular restaurant types preferred by customers  
+- High-demand locations suitable for new openings  
+- Preferred services like delivery, dine-in, or reservations  
+- Relationship between price range and ratings  
+
+---
+
+## 🎓 Learning Outcomes
+- Real-world application of **data preprocessing**  
+- Advanced **data visualization** for business insights  
+- Understanding of **customer and market trends** through analytics  
+
+---
+
+## 👨‍💻 Author
+**Siddhant Shendge**  
+B.E. in Artificial Intelligence and Data Science  
+Dr. D. Y. Patil Institute of Engineering, Management and Research  
+📫 [LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/Sid3839)
+sines, price range, and services
