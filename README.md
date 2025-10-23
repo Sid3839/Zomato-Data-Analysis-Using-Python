@@ -63,10 +63,3 @@ Used visual techniques to interpret restaurant data effectively:
 - Understanding of **customer and market trends** through analytics  
 
 ---
-
-## 👨‍💻 Author
-**Siddhant Shendge**  
-B.E. in Artificial Intelligence and Data Science  
-Dr. D. Y. Patil Institute of Engineering, Management and Research  
-📫 [LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/Sid3839)
-sines, price range, and services
